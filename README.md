@@ -1,6 +1,6 @@
 # Automated Cypress Tests
 ----------------------
-**In the Cypress file I realised the folowing automated tests on the website :**
+**In the Cypress file I realised the folowing automated tests on the website:**
 
 https://www.saucedemo.com/
 
